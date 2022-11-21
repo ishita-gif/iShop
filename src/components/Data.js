@@ -1,0 +1,75 @@
+const Data = {
+    productItems: [
+      {
+        id: 1,
+        discount: 50,
+        cover: "./images/flash/Flash1.png",
+        name: "Apple SmartWatch",
+        price: 100,
+      },
+      {
+        id: 2,
+        discount: 40,
+        cover: "./images/flash/Flash2.png",
+        name: "HomePod",
+        price: 20,
+      },
+      {
+        id: 3,
+        discount: 40,
+        cover: "./images/flash/Flash3.png",
+        name: "iPod",
+        price: 200,
+      },
+      {
+        id: 4,
+        discount: 40,
+        cover: "./images/flash/Flash4.png",
+        name: "Airpods",
+        price: 50,
+      },
+      {
+        id: 5,
+        discount: 40,
+        cover: "./images/flash/Flash5.png",
+        name: "Apple Camera",
+        price: 70,
+      },
+      {
+        id: 6,
+        discount: 50,
+        cover: "./images/flash/Flash1.png",
+        name: "Apple SmartWatch",
+        price: 100,
+      },
+      {
+        id: 7,
+        discount: 50,
+        cover: "./images/flash/Flash3.png",
+        name: "iPod",
+        price: 100,
+      },
+      {
+        id: 8,
+        discount: 50,
+        cover: "./images/flash/Flash4.png",
+        name: "Airpods",
+        price: 50,
+      },
+      {
+        id: 9,
+        discount: 50,
+        cover: "./images/flash/Flash2.png",
+        name: "Homepod",
+        price: 20,
+      },
+      {
+        id: 9,
+        discount: 50,
+        cover: "./images/flash/Flash5.png",
+        name: "Apple Camera",
+        price: 70,
+      },
+    ],
+  }
+  export default Data
